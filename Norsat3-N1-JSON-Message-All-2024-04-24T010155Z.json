@@ -1,0 +1,2336 @@
+[
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5532827Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:03:35Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 635.7134,
+        "MinorAxis": 325.75336,
+        "AngleRelativeNorth": 81.12432
+      },
+      "ID": 1,
+      "Latitude": 30.385937,
+      "Longitude": -42.932713
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 241444000,
+        "CandidateConfidenceCurrent": 95.68356,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534711Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:17Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 670.8032,
+        "MinorAxis": 366.02417,
+        "AngleRelativeNorth": 82.088066
+      },
+      "ID": 1,
+      "Latitude": 32.900314,
+      "Longitude": -43.27997
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 308753000,
+        "CandidateConfidenceCurrent": 98.04669,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534725Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:02:32Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 690.9602,
+        "MinorAxis": 321.87027,
+        "AngleRelativeNorth": 81.24719
+      },
+      "ID": 1,
+      "Latitude": 26.548666,
+      "Longitude": -41.91458
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534736Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:02:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 465.09192,
+        "MinorAxis": 238.12328,
+        "AngleRelativeNorth": 80.994415
+      },
+      "ID": 1,
+      "Latitude": 27.420574,
+      "Longitude": -41.914345
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538007233,
+        "CandidateConfidenceCurrent": 91.81078,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534743Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:15Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 921.68677,
+        "MinorAxis": 308.95383,
+        "AngleRelativeNorth": 85.19146
+      },
+      "ID": 1,
+      "Latitude": 33.376972,
+      "Longitude": -37.398434
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 352003121,
+        "CandidateConfidenceCurrent": 94.161575,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534749Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:02:13Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 833.22003,
+        "MinorAxis": 522.5226,
+        "AngleRelativeNorth": -88.89745
+      },
+      "ID": 1,
+      "Latitude": 25.254036,
+      "Longitude": -36.1676
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 241468000,
+        "CandidateConfidenceCurrent": 68.02614,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534755Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:03:57Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 571.02246,
+        "MinorAxis": 453.3183,
+        "AngleRelativeNorth": 83.88506
+      },
+      "ID": 1,
+      "Latitude": 31.209654,
+      "Longitude": -45.073296
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 563222900,
+        "CandidateConfidenceCurrent": 98.010254,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534761Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:06Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 537.4494,
+        "MinorAxis": 269.84198,
+        "AngleRelativeNorth": 82.139114
+      },
+      "ID": 1,
+      "Latitude": 32.430058,
+      "Longitude": -42.200726
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 370751000,
+        "CandidateConfidenceCurrent": 95.97601,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534767Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:03:58Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 2175.114,
+        "MinorAxis": 102.920685,
+        "AngleRelativeNorth": 87.480774
+      },
+      "ID": 1,
+      "Latitude": 32.07566,
+      "Longitude": -34.72636
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534772Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:08Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1306.2812,
+        "MinorAxis": 705.1116,
+        "AngleRelativeNorth": -88.18706
+      },
+      "ID": 1,
+      "Latitude": 32.46521,
+      "Longitude": -34.60586
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534778Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:11Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 696.0948,
+        "MinorAxis": 532.8225,
+        "AngleRelativeNorth": -9.873486
+      },
+      "ID": 1,
+      "Latitude": 32.307846,
+      "Longitude": -44.47886
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 247601000,
+        "CandidateConfidenceCurrent": 97.400536,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534842Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:02:10Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1030.8794,
+        "MinorAxis": 566.1177,
+        "AngleRelativeNorth": 87.956116
+      },
+      "ID": 1,
+      "Latitude": 24.818596,
+      "Longitude": -38.75697
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636022962,
+        "CandidateConfidenceCurrent": 30.045471,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534849Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:03:21Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1184.6115,
+        "MinorAxis": 546.38336,
+        "AngleRelativeNorth": 82.42573
+      },
+      "ID": 1,
+      "Latitude": 30.042356,
+      "Longitude": -39.333683
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636023136,
+        "CandidateConfidenceCurrent": 95.79566,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534854Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:28Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 529.76733,
+        "MinorAxis": 279.07516,
+        "AngleRelativeNorth": 81.22797
+      },
+      "ID": 1,
+      "Latitude": 34.526436,
+      "Longitude": -38.909832
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534858Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:24Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 794.68604,
+        "MinorAxis": 380.01608,
+        "AngleRelativeNorth": 84.02466
+      },
+      "ID": 1,
+      "Latitude": 33.99353,
+      "Longitude": -38.184425
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534862Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:09Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 874.57166,
+        "MinorAxis": 407.37094,
+        "AngleRelativeNorth": 85.465
+      },
+      "ID": 1,
+      "Latitude": 32.874046,
+      "Longitude": -37.841743
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 215567000,
+        "CandidateConfidenceCurrent": 86.31102,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553487Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:37Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 2173.1008,
+        "MinorAxis": 1822.1112,
+        "AngleRelativeNorth": 86.067856
+      },
+      "ID": 1,
+      "Latitude": 34.713676,
+      "Longitude": -37.4582
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534876Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:01:55Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 523.10284,
+        "MinorAxis": 231.49472,
+        "AngleRelativeNorth": 85.29093
+      },
+      "ID": 1,
+      "Latitude": 23.292065,
+      "Longitude": -43.018913
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 255805869,
+        "CandidateConfidenceCurrent": 98.55096,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534884Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:15Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 189.43005,
+        "MinorAxis": 151.17596,
+        "AngleRelativeNorth": -13.247536
+      },
+      "ID": 1,
+      "Latitude": 32.30617,
+      "Longitude": -44.47424
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534888Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:08Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 648.3352,
+        "MinorAxis": 274.1613,
+        "AngleRelativeNorth": 83.29227
+      },
+      "ID": 1,
+      "Latitude": 36.440704,
+      "Longitude": -41.137577
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 215754000,
+        "CandidateConfidenceCurrent": 60.362854,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534895Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:53Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 495.17453,
+        "MinorAxis": 273.403,
+        "AngleRelativeNorth": 77.87287
+      },
+      "ID": 1,
+      "Latitude": 35.510506,
+      "Longitude": -44.441277
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 367782370,
+        "CandidateConfidenceCurrent": 83.34587,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534901Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:57Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 640.8775,
+        "MinorAxis": 345.72498,
+        "AngleRelativeNorth": 83.070946
+      },
+      "ID": 1,
+      "Latitude": 35.40217,
+      "Longitude": -43.059906
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636021281,
+        "CandidateConfidenceCurrent": 97.23813,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534909Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:16Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 470.07373,
+        "MinorAxis": 298.92914,
+        "AngleRelativeNorth": 82.53321
+      },
+      "ID": 1,
+      "Latitude": 36.654587,
+      "Longitude": -42.952633
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 371951000,
+        "CandidateConfidenceCurrent": 91.51797,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534914Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:08Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 225.39592,
+        "MinorAxis": 210.17392,
+        "AngleRelativeNorth": -7.909675
+      },
+      "ID": 1,
+      "Latitude": 35.82689,
+      "Longitude": -45.858646
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 319115700,
+        "CandidateConfidenceCurrent": 99.658005,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534923Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:05Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 273.5526,
+        "MinorAxis": 184.57652,
+        "AngleRelativeNorth": -8.048569
+      },
+      "ID": 1,
+      "Latitude": 35.82628,
+      "Longitude": -45.855873
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 319115700,
+        "CandidateConfidenceCurrent": 99.27033,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534931Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:04Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 930.1796,
+        "MinorAxis": 533.1989,
+        "AngleRelativeNorth": 88.33094
+      },
+      "ID": 1,
+      "Latitude": 36.17054,
+      "Longitude": -36.611835
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534934Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:44Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1174.3057,
+        "MinorAxis": 576.3241,
+        "AngleRelativeNorth": 89.98539
+      },
+      "ID": 1,
+      "Latitude": 34.817383,
+      "Longitude": -35.14846
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 311001288,
+        "CandidateConfidenceCurrent": 69.99951,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553494Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:43Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 321.13962,
+        "MinorAxis": 188.6066,
+        "AngleRelativeNorth": 81.582245
+      },
+      "ID": 1,
+      "Latitude": 34.23874,
+      "Longitude": -45.22417
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 303270000,
+        "CandidateConfidenceCurrent": 99.587036,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534947Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1611.2587,
+        "MinorAxis": 613.68353,
+        "AngleRelativeNorth": 86.8027
+      },
+      "ID": 1,
+      "Latitude": 35.41573,
+      "Longitude": -34.672226
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 477407100,
+        "CandidateConfidenceCurrent": 68.95663,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534954Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:16Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 976.53595,
+        "MinorAxis": 516.69525,
+        "AngleRelativeNorth": 86.58754
+      },
+      "ID": 1,
+      "Latitude": 37.350716,
+      "Longitude": -34.53361
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534959Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:07Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 751.8674,
+        "MinorAxis": 331.20752,
+        "AngleRelativeNorth": 84.77086
+      },
+      "ID": 1,
+      "Latitude": 36.319645,
+      "Longitude": -39.7315
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636017522,
+        "CandidateConfidenceCurrent": 95.886406,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534965Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:08Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 566.7607,
+        "MinorAxis": 306.65588,
+        "AngleRelativeNorth": -8.618445
+      },
+      "ID": 1,
+      "Latitude": 36.105892,
+      "Longitude": -38.716488
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224407000,
+        "CandidateConfidenceCurrent": 98.88619,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5534973Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:21Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 693.9419,
+        "MinorAxis": 419.29745,
+        "AngleRelativeNorth": 81.99172
+      },
+      "ID": 1,
+      "Latitude": 36.993015,
+      "Longitude": -43.471596
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 311296000,
+        "CandidateConfidenceCurrent": 74.36324,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535049Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:06Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 424.7002,
+        "MinorAxis": 67.255974,
+        "AngleRelativeNorth": 81.615974
+      },
+      "ID": 1,
+      "Latitude": 35.600414,
+      "Longitude": -45.678986
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 256230000,
+        "CandidateConfidenceCurrent": 98.72216,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535057Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:05Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 481.85217,
+        "MinorAxis": 298.6552,
+        "AngleRelativeNorth": -9.017814
+      },
+      "ID": 1,
+      "Latitude": 35.603306,
+      "Longitude": -45.675423
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 256230000,
+        "CandidateConfidenceCurrent": 98.65363,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535062Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:51Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 571.7907,
+        "MinorAxis": 411.51886,
+        "AngleRelativeNorth": 79.78808
+      },
+      "ID": 1,
+      "Latitude": 34.90913,
+      "Longitude": -45.358063
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636013814,
+        "CandidateConfidenceCurrent": 97.1357,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535067Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:04:55Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 520.4686,
+        "MinorAxis": 364.50885,
+        "AngleRelativeNorth": 80.707184
+      },
+      "ID": 1,
+      "Latitude": 35.106846,
+      "Longitude": -45.182796
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 563125300,
+        "CandidateConfidenceCurrent": 98.38315,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535074Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:18Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 514.8865,
+        "MinorAxis": 443.12186,
+        "AngleRelativeNorth": 85.78538
+      },
+      "ID": 1,
+      "Latitude": 36.412636,
+      "Longitude": -44.785233
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538003015,
+        "CandidateConfidenceCurrent": 98.003746,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535083Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:29Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 594.54846,
+        "MinorAxis": 271.17627,
+        "AngleRelativeNorth": 81.37752
+      },
+      "ID": 1,
+      "Latitude": 37.33473,
+      "Longitude": -44.868553
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 311295000,
+        "CandidateConfidenceCurrent": 96.397064,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535088Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:33Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 652.184,
+        "MinorAxis": 434.1,
+        "AngleRelativeNorth": 82.31406
+      },
+      "ID": 1,
+      "Latitude": 37.523037,
+      "Longitude": -44.58205
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 235070865,
+        "CandidateConfidenceCurrent": 86.13757,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535094Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:18Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 523.9955,
+        "MinorAxis": 125.99549,
+        "AngleRelativeNorth": 85.859116
+      },
+      "ID": 1,
+      "Latitude": 35.981247,
+      "Longitude": -43.838623
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535099Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:35Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 418.38358,
+        "MinorAxis": 307.56247,
+        "AngleRelativeNorth": 81.05928
+      },
+      "ID": 1,
+      "Latitude": 37.94967,
+      "Longitude": -43.172565
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 319117400,
+        "CandidateConfidenceCurrent": 56.4312,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535104Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:36Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 459.38052,
+        "MinorAxis": 274.03174,
+        "AngleRelativeNorth": -13.044582
+      },
+      "ID": 1,
+      "Latitude": 37.648552,
+      "Longitude": -35.487076
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535108Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:38Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1960.8285,
+        "MinorAxis": 429.14267,
+        "AngleRelativeNorth": 87.95648
+      },
+      "ID": 1,
+      "Latitude": 38.531483,
+      "Longitude": -35.0971
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 256338000,
+        "CandidateConfidenceCurrent": 76.776566,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535115Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:44Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1928.7324,
+        "MinorAxis": 548.86163,
+        "AngleRelativeNorth": -85.28525
+      },
+      "ID": 1,
+      "Latitude": 37.338108,
+      "Longitude": -34.513268
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 419001223,
+        "CandidateConfidenceCurrent": 29.632685,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553512Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:37Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 733.072,
+        "MinorAxis": 408.3133,
+        "AngleRelativeNorth": 83.051315
+      },
+      "ID": 1,
+      "Latitude": 38.146774,
+      "Longitude": -41.69603
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 241747000,
+        "CandidateConfidenceCurrent": 80.73968,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535125Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:37Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1237.7593,
+        "MinorAxis": 550.72797,
+        "AngleRelativeNorth": 85.77673
+      },
+      "ID": 1,
+      "Latitude": 38.439594,
+      "Longitude": -37.58209
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 370254000,
+        "CandidateConfidenceCurrent": 88.355286,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535132Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:23Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 592.9053,
+        "MinorAxis": 410.30975,
+        "AngleRelativeNorth": 82.169235
+      },
+      "ID": 1,
+      "Latitude": 40.553375,
+      "Longitude": -45.571625
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538005270,
+        "CandidateConfidenceCurrent": 97.739075,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535141Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:24Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 714.3912,
+        "MinorAxis": 370.20383,
+        "AngleRelativeNorth": 83.84154
+      },
+      "ID": 1,
+      "Latitude": 41.122974,
+      "Longitude": -41.36458
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 229969000,
+        "CandidateConfidenceCurrent": 66.3571,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535147Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 787.9995,
+        "MinorAxis": 527.4157,
+        "AngleRelativeNorth": 83.66546
+      },
+      "ID": 1,
+      "Latitude": 42.068707,
+      "Longitude": -43.64083
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535151Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:32Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 761.8468,
+        "MinorAxis": 405.3546,
+        "AngleRelativeNorth": 81.65623
+      },
+      "ID": 1,
+      "Latitude": 41.540535,
+      "Longitude": -43.451267
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 477738700,
+        "CandidateConfidenceCurrent": 95.608955,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535157Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:48Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1319.6208,
+        "MinorAxis": 599.26953,
+        "AngleRelativeNorth": -89.671
+      },
+      "ID": 1,
+      "Latitude": 42.50604,
+      "Longitude": -35.555927
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538008690,
+        "CandidateConfidenceCurrent": 37.04275,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535162Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:33Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 609.59314,
+        "MinorAxis": 385.2126,
+        "AngleRelativeNorth": 83.824135
+      },
+      "ID": 1,
+      "Latitude": 41.588985,
+      "Longitude": -41.98054
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 403511001,
+        "CandidateConfidenceCurrent": 94.279015,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553517Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:05:58Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 377.58716,
+        "MinorAxis": 172.80667,
+        "AngleRelativeNorth": -0.24902321
+      },
+      "ID": 1,
+      "Latitude": 40.395725,
+      "Longitude": -41.56562
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224250000,
+        "CandidateConfidenceCurrent": 99.10445,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535176Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:21Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 753.99786,
+        "MinorAxis": 220.81836,
+        "AngleRelativeNorth": 86.45374
+      },
+      "ID": 1,
+      "Latitude": 40.392555,
+      "Longitude": -41.57107
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224250000,
+        "CandidateConfidenceCurrent": 98.7739,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535183Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:18Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 628.8426,
+        "MinorAxis": 284.50125,
+        "AngleRelativeNorth": 85.859184
+      },
+      "ID": 1,
+      "Latitude": 40.38835,
+      "Longitude": -41.583637
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224250000,
+        "CandidateConfidenceCurrent": 75.0848,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535189Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:12Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 723.93463,
+        "MinorAxis": 302.97052,
+        "AngleRelativeNorth": 83.46886
+      },
+      "ID": 1,
+      "Latitude": 40.39221,
+      "Longitude": -41.56034
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224250000,
+        "CandidateConfidenceCurrent": 98.13531,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535231Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:50Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 415.85596,
+        "MinorAxis": 324.8166,
+        "AngleRelativeNorth": 82.93857
+      },
+      "ID": 1,
+      "Latitude": 42.79165,
+      "Longitude": -40.47709
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535236Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 665.539,
+        "MinorAxis": 290.7834,
+        "AngleRelativeNorth": 86.00402
+      },
+      "ID": 1,
+      "Latitude": 42.552315,
+      "Longitude": -38.98353
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636017335,
+        "CandidateConfidenceCurrent": 76.03062,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535244Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:51Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 732.8895,
+        "MinorAxis": 347.4804,
+        "AngleRelativeNorth": 85.41899
+      },
+      "ID": 1,
+      "Latitude": 43.04198,
+      "Longitude": -38.87893
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535248Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:55Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 604.63934,
+        "MinorAxis": 333.43878,
+        "AngleRelativeNorth": 82.72516
+      },
+      "ID": 1,
+      "Latitude": 42.74248,
+      "Longitude": -44.41751
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538003852,
+        "CandidateConfidenceCurrent": 98.72331,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535252Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:52Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 927.8045,
+        "MinorAxis": 354.9366,
+        "AngleRelativeNorth": 86.87669
+      },
+      "ID": 1,
+      "Latitude": 42.94799,
+      "Longitude": -38.2711
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535257Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:27Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 722.63727,
+        "MinorAxis": 472.28668,
+        "AngleRelativeNorth": 82.51332
+      },
+      "ID": 1,
+      "Latitude": 44.837685,
+      "Longitude": -43.74257
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 567104000,
+        "CandidateConfidenceCurrent": 95.61414,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535264Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:24Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 533.2801,
+        "MinorAxis": 296.96185,
+        "AngleRelativeNorth": 82.6139
+      },
+      "ID": 1,
+      "Latitude": 44.766426,
+      "Longitude": -43.35327
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 477694200,
+        "CandidateConfidenceCurrent": 94.99973,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535271Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:38Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1631.3612,
+        "MinorAxis": 220.17853,
+        "AngleRelativeNorth": -87.53349
+      },
+      "ID": 1,
+      "Latitude": 45.10084,
+      "Longitude": -34.95049
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535277Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:07Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 373.36884,
+        "MinorAxis": 319.07248,
+        "AngleRelativeNorth": 83.28268
+      },
+      "ID": 1,
+      "Latitude": 43.106453,
+      "Longitude": -46.559414
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538004477,
+        "CandidateConfidenceCurrent": 99.10376,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535282Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:02Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1984.3156,
+        "MinorAxis": 322.6655,
+        "AngleRelativeNorth": 89.06928
+      },
+      "ID": 1,
+      "Latitude": 43.871475,
+      "Longitude": -34.344467
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 246865000,
+        "CandidateConfidenceCurrent": 93.22831,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535289Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:08Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 5230.706,
+        "MinorAxis": 673.6983,
+        "AngleRelativeNorth": 88.74015
+      },
+      "ID": 1,
+      "Latitude": 44.608814,
+      "Longitude": -33.386135
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636017000,
+        "CandidateConfidenceCurrent": 49.663475,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535295Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:34Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 651.37604,
+        "MinorAxis": 315.64975,
+        "AngleRelativeNorth": 85.476204
+      },
+      "ID": 1,
+      "Latitude": 45.454098,
+      "Longitude": -40.55322
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636016206,
+        "CandidateConfidenceCurrent": 85.03434,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535303Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:06:59Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 964.8151,
+        "MinorAxis": 323.85364,
+        "AngleRelativeNorth": 85.04119
+      },
+      "ID": 1,
+      "Latitude": 43.520622,
+      "Longitude": -39.67717
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535307Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:16Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1320.0822,
+        "MinorAxis": 413.89142,
+        "AngleRelativeNorth": 84.326584
+      },
+      "ID": 1,
+      "Latitude": 45.634884,
+      "Longitude": -34.793747
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 249575000,
+        "CandidateConfidenceCurrent": 16.867071,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535316Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:43Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 362.4822,
+        "MinorAxis": 351.5219,
+        "AngleRelativeNorth": -33.853836
+      },
+      "ID": 1,
+      "Latitude": 45.237213,
+      "Longitude": -46.184975
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538010294,
+        "CandidateConfidenceCurrent": 98.212814,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535321Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 644.9297,
+        "MinorAxis": 296.51218,
+        "AngleRelativeNorth": 81.81485
+      },
+      "ID": 1,
+      "Latitude": 45.734737,
+      "Longitude": -46.015015
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636017006,
+        "CandidateConfidenceCurrent": 92.97633,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535327Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:54Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 387.4959,
+        "MinorAxis": 290.86646,
+        "AngleRelativeNorth": 79.184784
+      },
+      "ID": 1,
+      "Latitude": 46.552902,
+      "Longitude": -45.506496
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535331Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:55Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 709.0596,
+        "MinorAxis": 297.79355,
+        "AngleRelativeNorth": 82.04427
+      },
+      "ID": 1,
+      "Latitude": 46.537518,
+      "Longitude": -45.162994
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 263533000,
+        "CandidateConfidenceCurrent": 92.06195,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535336Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:56Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 704.01697,
+        "MinorAxis": 331.77515,
+        "AngleRelativeNorth": 78.93331
+      },
+      "ID": 1,
+      "Latitude": 47.135693,
+      "Longitude": -44.856644
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538010542,
+        "CandidateConfidenceCurrent": 76.35401,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535344Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:44Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 525.1672,
+        "MinorAxis": 352.09265,
+        "AngleRelativeNorth": 83.45613
+      },
+      "ID": 1,
+      "Latitude": 45.727707,
+      "Longitude": -44.595608
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 311000437,
+        "CandidateConfidenceCurrent": 58.76181,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535351Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:50Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 526.20135,
+        "MinorAxis": 388.37787,
+        "AngleRelativeNorth": 81.11846
+      },
+      "ID": 1,
+      "Latitude": 46.253193,
+      "Longitude": -44.485855
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538004534,
+        "CandidateConfidenceCurrent": 97.51387,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535355Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:48Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 378.42596,
+        "MinorAxis": 293.50543,
+        "AngleRelativeNorth": 83.39824
+      },
+      "ID": 1,
+      "Latitude": 46.06875,
+      "Longitude": -43.586594
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 368359000,
+        "CandidateConfidenceCurrent": 96.85297,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535396Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:39Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1149.592,
+        "MinorAxis": 367.75534,
+        "AngleRelativeNorth": -89.40186
+      },
+      "ID": 1,
+      "Latitude": 45.554787,
+      "Longitude": -36.08402
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535399Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:46Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 449.42093,
+        "MinorAxis": 206.11859,
+        "AngleRelativeNorth": 84.84113
+      },
+      "ID": 1,
+      "Latitude": 45.892258,
+      "Longitude": -43.159954
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535403Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:45Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1432.9083,
+        "MinorAxis": 553.3605,
+        "AngleRelativeNorth": -86.46071
+      },
+      "ID": 1,
+      "Latitude": 45.473442,
+      "Longitude": -35.189114
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535407Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:48Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1791.6484,
+        "MinorAxis": 482.286,
+        "AngleRelativeNorth": 88.84112
+      },
+      "ID": 1,
+      "Latitude": 46.686234,
+      "Longitude": -35.096436
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553541Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:56Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 1010.65546,
+        "MinorAxis": 508.1615,
+        "AngleRelativeNorth": -81.15516
+      },
+      "ID": 1,
+      "Latitude": 45.634777,
+      "Longitude": -34.777096
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535414Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:54Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 668.5321,
+        "MinorAxis": 568.86224,
+        "AngleRelativeNorth": -3.5134356
+      },
+      "ID": 1,
+      "Latitude": 46.396206,
+      "Longitude": -46.65677
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 224534000,
+        "CandidateConfidenceCurrent": 92.04715,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535422Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:47Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 526.0192,
+        "MinorAxis": 184.22005,
+        "AngleRelativeNorth": -1.2957495
+      },
+      "ID": 1,
+      "Latitude": 46.559555,
+      "Longitude": -40.958508
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535427Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:44Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 466.29306,
+        "MinorAxis": 305.1141,
+        "AngleRelativeNorth": 87.21881
+      },
+      "ID": 1,
+      "Latitude": 45.873837,
+      "Longitude": -40.68357
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535432Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:48Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 634.6388,
+        "MinorAxis": 288.6555,
+        "AngleRelativeNorth": 83.516235
+      },
+      "ID": 1,
+      "Latitude": 46.81738,
+      "Longitude": -39.81158
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636021172,
+        "CandidateConfidenceCurrent": 52.634987,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535438Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:54Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 829.49426,
+        "MinorAxis": 418.92316,
+        "AngleRelativeNorth": 85.22029
+      },
+      "ID": 1,
+      "Latitude": 46.867435,
+      "Longitude": -39.826885
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 311000705,
+        "CandidateConfidenceCurrent": 97.141754,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535444Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:08:01Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 702.24915,
+        "MinorAxis": 289.2797,
+        "AngleRelativeNorth": 79.32809
+      },
+      "ID": 1,
+      "Latitude": 47.35341,
+      "Longitude": -45.071022
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 246519000,
+        "CandidateConfidenceCurrent": 94.29919,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.553545Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:47Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 827.8069,
+        "MinorAxis": 375.8352,
+        "AngleRelativeNorth": 87.0155
+      },
+      "ID": 1,
+      "Latitude": 46.387333,
+      "Longitude": -38.122166
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 636018114,
+        "CandidateConfidenceCurrent": 90.9125,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535459Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:08:00Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 701.21844,
+        "MinorAxis": 256.4826,
+        "AngleRelativeNorth": 78.2589
+      },
+      "ID": 1,
+      "Latitude": 47.838066,
+      "Longitude": -43.836643
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 477754700,
+        "CandidateConfidenceCurrent": 77.42475,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535464Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:07:55Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 832.99176,
+        "MinorAxis": 371.26013,
+        "AngleRelativeNorth": 85.080734
+      },
+      "ID": 1,
+      "Latitude": 47.55917,
+      "Longitude": -35.462303
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535469Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:08:02Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 205.95312,
+        "MinorAxis": 138.47026,
+        "AngleRelativeNorth": 77.44084
+      },
+      "ID": 1,
+      "Latitude": 47.353474,
+      "Longitude": -45.071182
+    },
+    "NumberCandidates": 0,
+    "CandidateList": []
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535473Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:08:01Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 588.9971,
+        "MinorAxis": 271.43127,
+        "AngleRelativeNorth": 78.34599
+      },
+      "ID": 1,
+      "Latitude": 47.49998,
+      "Longitude": -44.8743
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 538006786,
+        "CandidateConfidenceCurrent": 84.851875,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  },
+  {
+    "TimeStamp": "2024-04-24T09:02:30.5535479Z",
+    "CollectionInformation": {
+      "CollectionTime": "2024-04-24T01:08:02Z",
+      "CXP": 0,
+      "PlanStatus": "Test"
+    },
+    "NRDEmitterPosition": {
+      "UncertaintyEllipse": {
+        "MajorAxis": 2340.3877,
+        "MinorAxis": 1115.0001,
+        "AngleRelativeNorth": 89.43435
+      },
+      "ID": 1,
+      "Latitude": 46.554962,
+      "Longitude": -40.956665
+    },
+    "NumberCandidates": 1,
+    "CandidateList": [
+      {
+        "CandidateNo": 305700000,
+        "CandidateConfidenceCurrent": 71.13814,
+        "CandidateConfidencePrevious": -1.0
+      }
+    ]
+  }
+]
