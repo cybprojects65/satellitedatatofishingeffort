@@ -7,6 +7,8 @@ library(raster)
 cat("Norsat-3 data processing started\n")
 print(Sys.time())
 output_file<-"./Norsat_enriched.csv"
+
+output_file_for_behaviour_analysis<-"./Vessel_barycenters_per_window.csv"
 minimum_confidence<-60
 too_close_to_harbour<-1.2 #in NM #set 800 for testing
 resolution<-0.5
@@ -27,6 +29,8 @@ for(i in 1:length(window_csv_data_list)){
 
 #merge the data in the list into one DF
 vessel_data_windows <- do.call(rbind, window_csv_data_list_preprocessed)
+
+write.csv(x = vessel_data_windows, file = output_file_for_behaviour_analysis, row.names = F)
 
 vessel_data<-vessel_data_windows
 
