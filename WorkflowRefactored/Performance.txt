@@ -1,0 +1,24 @@
+#GFW COMPARISON STARTED#
+###SUMMARY:
+Accuracy Fishing hours: 76.31 %
+Precision Fishing hours: 62.39 %
+Recall Fishing hours: 66.27 %
+F1 Fishing hours: 0.64 
+
+Accuracy Potential Fishing Area: 69.77 %
+Precision Potential Fishing Area: 51.92 %
+Recall Potential Fishing Area: 80.75 %
+F1 Potential Fishing Area: 0.63 
+
+GFW intense fishing threshold: 64.11583  hours
+Workflow intense fishing threshold: 66.51872  hours
+Probability threshold for intense fishing: -1.477481 
+
+Is the fishing effort estimate consistent?  TRUE 
+Reference GFW total fishing: 4257300 
+Lower bound of total fishing: 1620111 
+Average total fishing: 3240222 
+Upper bound of total fishing: 4860333 
+Absolute error on total fishing: 3240222 
+Relative error on total fishing wrt GFW: 23.89 %
+#GFW COMPARISON FINISHED#
