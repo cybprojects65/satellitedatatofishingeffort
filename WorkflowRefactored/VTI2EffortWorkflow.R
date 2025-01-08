@@ -6,7 +6,6 @@ library(raster)
 library(data.table)
 library(neuralnet)
 
-#TODO: Remove fixed paths from the sub scripts
 #PREREQUISITE 1: A CSV TABLE WITH THE FOLLOWING COLUMNS: MMSI, LON, LAT, TIMESTAMP
 #PREREQUISITE 2: DATA SHOULD ALREADY BE RELIABLE (FILTERED BASED ON CONFIDENCE)
 #PREREQUISITE 3: DATA SHOULD correspond to vessel barycenter if an uncertainty range occurs (FILTERED BASED ON CONFIDENCE)
@@ -26,6 +25,10 @@ properties <- setNames(properties$value, properties$key)
 # Print the properties
 print(properties)
 
+cachefolder<-as.character(properties["cache"])
+if (!dir.exists(cachefolder)){
+  dir.create(cachefolder)
+}
 cat("Vessel data processing started\n")
 print(Sys.time())
 input_data<-as.character(properties["input_data"])
