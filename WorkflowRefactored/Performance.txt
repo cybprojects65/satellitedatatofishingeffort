@@ -1,4 +1,8 @@
 #GFW COMPARISON STARTED#
+MODELS WERE TRAINED ON THE ENTIRE WORLD:
+distinct vessels: 265
+number of good records (non-mull time, non false positive, non-null vessel id): 22,959,865
+
 ###SUMMARY:
 Accuracy Fishing hours: 76.31 %
 Precision Fishing hours: 62.39 %
